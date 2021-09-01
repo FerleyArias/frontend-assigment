@@ -35,3 +35,19 @@ Puntos extras:
 - Unit testing.
 - Linting y Prettier
 - Docker
+
+Uso:
+----
+
+1. Correr npm i para instalar dependencias:
+   ```sh
+   npm i
+   ```
+2. Correr npm run dev para inicializar la aplicacion:
+   ```sh
+   npm run dev
+   ```
+3. ir a la ruta especificada [localhost:3000](http://localhost:3000)
+   ```sh
+   ready - started server on 0.0.0.0:3000, url: http://localhost:3000
+   ```
